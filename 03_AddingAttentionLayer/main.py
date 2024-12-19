@@ -1,8 +1,5 @@
 import argparse
-import tensorflow as tf
 
-
-#from utils import get_fib_seq
 from utils import create_RNN
 from utils import create_RNN_with_attention
 from utils import get_fib_XY
